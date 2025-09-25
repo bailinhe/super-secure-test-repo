@@ -1,0 +1,6 @@
+issuer: https://keycloak.dev.bailinhe.com/realms/master
+subject_pattern: '.+'
+
+permissions:
+  pull_requests: write
+  contents: write
