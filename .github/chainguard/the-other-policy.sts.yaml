@@ -1,6 +1,10 @@
 issuer: https://keycloak.dev.bailinhe.com/realms/master
 subject_pattern: '.+'
 
+audience: 'github-octo-sts'
+
 permissions:
   pull_requests: write
   contents: write
+
+repositories: []
