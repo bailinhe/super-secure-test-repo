@@ -1,4 +1,4 @@
-issuer: https://keycloak.dev.bailinhe.com/realms/master
+issuer: https://keycloak.dev.bailinhe.com/realms/public
 subject_pattern: '.+'
 
 audience_pattern: '.+'
