@@ -1,0 +1,7 @@
+issuer: https://iam.metalctrl.io/
+subject: 'idntusr-v5e1v6UAfve4rfBwRffyV8CxoIxwkqX8R-flz7XDnaE'
+
+audience: 'https://iam.metalctrl.io/userinfo'
+
+permissions:
+  contents: read
